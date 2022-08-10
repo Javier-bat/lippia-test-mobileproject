@@ -12,19 +12,19 @@
 #Pasos para ejecutar el proyecto
 
 Una vez instalado Android studio accedemos al 'device manager'
-![ExtentReport example](img/virtual-device.png)
+![ExtentReport example](img/virtual-device.PNG)
 
 Seleccionamos el dispositivo que vamos a utilizar. En este caso el proyecto esta configurado para Pixel
-![ExtentReport example](img/select-hard.png)
+![ExtentReport example](img/select-hard.PNG)
 Damos a siguiente y seleccionamos la version de andriod 9 (Descargar si es necesario)
-![ExtentReport example](img/android-version.png)
+![ExtentReport example](img/android-version.PNG)
 Completamos la creacion del dispisitivo virtual
 
 Ejecutamos el dispositivo con el boton "play" dentro del device manager
-![ExtentReport example](img/virtual-device-play.png)
+![ExtentReport example](img/virtual-device-play.PNG)
 
 Ejecutar Appium server y presionar 'Edit configurations' para validar y configurar la ubicacion del JDK/SDK
-![ExtentReport example](img/jdk.png)
+![ExtentReport example](img/jdk.PNG)
 Configurado el sdk presionar 'Star server'
 
 Configurar la ubicacion del apk en el pom.xml dentro del proyecto 
@@ -53,4 +53,4 @@ Configurar la ubicacion del apk en el pom.xml dentro del proyecto
 ```
 Ejecutar html desde un navegador. Se visualizara los features ejecutados y los resultados de los mismos
 
-![ExtentReport example](img/report.png)
+![ExtentReport example](img/report.PNG)
